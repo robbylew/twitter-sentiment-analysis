@@ -8,6 +8,7 @@ Unfortunately, I’ve made the decision to keep the code private as I plan to pu
 I sincerely apologize for any confusion or inconvenience caused to those who followed this link expecting to view the source code. If you're interested in learning more about the project or discussing it further, please don't hesitate to reach out.
 
 Thank you for understanding,
-**Robert Lewis**
-robertlewis.dev
+
+**Robert Lewis**  
+[robertlewis.dev](https://robertlewis.dev)  
 robertlewisdev@gmail.com
